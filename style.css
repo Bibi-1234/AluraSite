@@ -3,11 +3,13 @@
  }
 
  #banner {
+    width: 100%;
    
  }
 
  h1 {
  	 text-aling: center;
+     color: purple;
  }
 
  p {
