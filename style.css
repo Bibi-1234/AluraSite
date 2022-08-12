@@ -8,7 +8,7 @@
  }
 
  h1 {
- 	 text-aling: center;
+ 	 text-align: center;
      color: purple;
  }
 
@@ -22,4 +22,7 @@
 
 em strong {
 	color: red;
+}
+.itens {
+	font-style: italic;
 }
