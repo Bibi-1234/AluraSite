@@ -8,10 +8,15 @@
 
 .principal {
 	background: #CCCCCC;
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
 }
 
 
- h1 {
+.titulo-centralizado {
  	 text-align: center;
      color: purple;
  }
@@ -33,14 +38,16 @@ em strong {
 
 .beneficios {
 	background: #FFF;
+	padding: 20px;
 }
 
-h2{
-	text-align: center;
-	color: purple;
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
 }
 
 .imagembeneficios {
 	width: 50%;
 }
-
